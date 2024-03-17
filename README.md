@@ -13,8 +13,17 @@ pnpm dev
 # or
 bun dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Example of Deployed Site
+[`XMod`](https://www.xmod.space/)
+Templates of pages:
+
+-[`Roblox executor | sciprt`](https://www.xmod.space/jjsploit)
+-[`Roblox game`](https://www.xmod.space/games/roblox)
+-[`Games`](https://www.xmod.space/games)
+-[`Injectors`](https://www.xmod.space/injectors)
+
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
